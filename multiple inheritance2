@@ -32,6 +32,6 @@ class D : public B, public C
 int main ()
 {
 	D obj1 ;
-	obj1.display A();
+	obj1.display();
 	return 0;
 }
