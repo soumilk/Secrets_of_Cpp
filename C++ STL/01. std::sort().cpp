@@ -39,8 +39,8 @@ int main()
     */
     print(a,n);
     
-    cout<<"Sorting only the first 4 elements of the array"<<endl;
-    // In this case, only first 4 elements of the array are sorted, i.e. index(0,1,2,3)
+    cout<<"Sorting only the first 3 elements of the array"<<endl;
+    // In this case, only first 3 elements of the array are sorted, i.e. index(0,1,2,3)
     sort(a1,a1+3);
     print(a1,n);
     
