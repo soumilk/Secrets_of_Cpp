@@ -1,3 +1,5 @@
+<img src="https://library.kissclipart.com/20180927/ajq/kissclipart-c-c-icon-clipart-the-c-programming-language-th-d64c93203a84b298.png" alt="drawing" width="200"/>
+
 ## C++ STL (Standard Template Library) 
 This folder contains all the STL features and inbuilt functions required to solve the problems in any competition in competitive programming.
 
