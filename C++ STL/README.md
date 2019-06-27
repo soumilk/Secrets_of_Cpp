@@ -21,8 +21,10 @@ http://www.cplusplus.com/reference/algorithm/sort/
 ### Binary search :
 
 * Binary search is a divide and conquer approach, most of us know about the binary search. If you want to see the implementation of the binary search, then [visit the code here](https://github.com/soumilk/Algorithms_and_Their_Techniques/blob/master/Divide%20and%20Conquer/Binary%20search.cpp) to see both the approach to implement binary search i.e. via looping and recurssion.
-* Consider a situation when there is no array given and we need to implement the binary search !!?!?!?! I want to calculate the square root of 319 using the binary search so now how to implement the binary search !!!
+* There is inbuilt binary search algorithm in STL, we can use it for faster execution, visit [this code](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/02.std::binary_search().cpp) to see the implementation of the binary_search algorithm.
+* Consider a situation when there is no array given and we need to implement the binary search !!. Lets say I want to calculate the square root of 319 using the binary search so now how to implement the binary search !!!
 * <strong> Binary search is applicable on each and every function which is monotonic, i.e. continously increasing or decreasing </strong>.
 * Consider the function of square root, polynomials and all the monotonic functions, we can apply the binary search on them.
+* Must view [the code here](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C++%20STL/03.Sqaure%20Root%20using%20Binary%20search.cpp) to see the calculation of square root using binary search algorithm.
   
   
