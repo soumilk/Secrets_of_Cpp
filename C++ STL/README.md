@@ -1,7 +1,7 @@
-<img src="https://library.kissclipart.com/20180927/ajq/kissclipart-c-c-icon-clipart-the-c-programming-language-th-d64c93203a84b298.png" alt="drawing" width="200"/>
-
 ## C++ STL (Standard Template Library) 
 This folder contains all the STL features and inbuilt functions required to solve the problems in any competition in competitive programming.
+
+<img src="https://erarpitsharma.com/wp-content/uploads/2018/11/cpppp-490x490.png" alt="drawing" width="500"/>
 
 The Standard Template Library (STL) is a set of C++ template classes to provide common programming data structures and functions such as lists, stacks, arrays, etc. It is a library of container classes, algorithms, and iterators. It is a generalized library and so, its components are parameterized. A working knowledge of template classes is a prerequisite for working with STL.
 
