@@ -44,7 +44,7 @@ int binarysearch(int n)
 // In this program we will find out the square root of 72 using binary search!!!
 int main()
 {
-    int n=85472;
+    int n=175;
     /*
      * Now for the binary search we need to take a upper and a lower bound, so for this the
        lower bound is taken as zero and the upper bound is taken as number itself, we can take
@@ -52,25 +52,25 @@ int main()
        number itself as the upper bound.
      */
     int integral_part=binarysearch(n);
-    cout<<"The integral part of the square root of number 85472 is "<<integral_part<<endl;
+    cout<<"The integral part of the square root of number "<<n<<" is "<<integral_part<<endl;
     /*
      *  So from here we can find out the integral part of the square root of the desired number
      *  If we want to  calculate the decimal part of the number as well up to a certain digits then
-        we can run a loop between the digits 0 to 9. The time taken by this looping among 10 numbers
+        we can run a loop between the digits 0 to 99. The time taken by this looping among 100 numbers
         will take a constant time.
      */
 
     // now for the decimal part, for one digit after decimal
-    double high=integral_part+0.9;
-    double low=integral_part+0.0;
+    double high=integral_part+0.99;
+    double low=integral_part+0.00;
     for( ;high>=low ; )
     {
         if (low*low>=n)
         {
-            cout<<"Upto one decimal position "<<low<<endl;
+            cout<<"Upto one decimal position "<<low-0.01<<endl;
             break;
         }
-        low+=0.1;
+        low+=0.01;
     }
     return 0;
 }
