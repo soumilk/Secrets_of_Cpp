@@ -60,7 +60,7 @@ int main()
     NOTE: We are not calling the function, i.e. we are not doing this => sort(a,a+n,compare_dec()), we are just passing the 
     function as an argument to the sort function.
     */
-    cout<<"Sorting in the decending order using comparator_inc function"<<endl;
+    cout<<"Sorting in the increasing order using comparator_inc function"<<endl;
     sort(a2,a2+n,compare_inc);
     print(a2,n);
     return 0;
