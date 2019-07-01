@@ -11,7 +11,7 @@ uses the randomised quick sort function in background working. It really useful 
 
 <strong> Look at this code for better understanding. </strong>
 
-[Code of std::sort() in this folder](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/01.%20std::sort())
+[Code of std::sort() in this file](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/01.%20std::sort().cpp)
 
 For more understading visit these resource:
 
