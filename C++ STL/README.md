@@ -30,6 +30,6 @@ http://www.cplusplus.com/reference/algorithm/sort/
 * Consider a situation when there is no array given and we need to implement the binary search !!. Lets say I want to calculate the square root of 319 using the binary search so now how to implement the binary search !!!
 * <strong> Binary search is applicable on each and every function which is monotonic, i.e. continously increasing or decreasing </strong>.
 * Consider the function of square root, polynomials and all the monotonic functions, we can apply the binary search on them.
-* Must view [the code here](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C++%20STL/03.Sqaure%20Root%20using%20Binary%20search.cpp) to see the calculation of square root using binary search algorithm.
+* Must view [the code here](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/021.Sqaure%20Root%20using%20Binary%20search.cpp) to see the calculation of square root using binary search algorithm.
   
   
