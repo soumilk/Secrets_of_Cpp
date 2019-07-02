@@ -6,12 +6,17 @@ This folder contains all the STL features and inbuilt functions required to solv
 The Standard Template Library (STL) is a set of C++ template classes to provide common programming data structures and functions such as lists, stacks, arrays, etc. It is a library of container classes, algorithms, and iterators. It is a generalized library and so, its components are parameterized. A working knowledge of template classes is a prerequisite for working with STL.
 
 ### Sorting :
-There is an inbuilt sort function in C++ STL library, this sort function is really quick and it 
-uses the randomised quick sort function in background working. It really useful and is acceptable in every competitive competition. You can provide your custom comparator function if you need to sort the elements upon different parameters. We can sort only the part of array if it is required. This sort function works on almost every defined data type.
+* There is an inbuilt sort function in C++ STL library, this sort function is really quick and it 
+uses the randomised quick sort function in background working.
+* It really useful and is acceptable in every competitive competition. You can provide your custom comparator function if you need to sort the elements upon different parameters.
+* We can sort only the part of array if it is required. This sort function works on almost every defined data type.
 
 <strong> Look at this code for better understanding. </strong>
 
 [Code of std::sort() in this file](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/01.%20std::sort().cpp)
+
+* The application of std::sort() having custom comparator function on strings. View the source code in 
+[sort() with strings](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/012.sort()%20in%20strings.cpp)
 
 For more understading visit these resource:
 
