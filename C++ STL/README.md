@@ -32,4 +32,10 @@ http://www.cplusplus.com/reference/algorithm/sort/
 * Consider the function of square root, polynomials and all the monotonic functions, we can apply the binary search on them.
 * Must view [the code here](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/021.Sqaure%20Root%20using%20Binary%20search.cpp) to see the calculation of square root using binary search algorithm.
   
+### Stack :
+
+* Stack is a data structure which follows the LIFO approach, i.e. <strong>Last In First Out</strong>, stack is a very useful data structure and is used widely in problem solving and competitive. 
+* You can learn all about Stacks from [here](https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm).
+* To see the stack implementation with all the functionality of push, pop and empty functions, you should [vist this code](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/03.Stack%20implementations.cpp).
+
   
