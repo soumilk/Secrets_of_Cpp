@@ -37,5 +37,6 @@ http://www.cplusplus.com/reference/algorithm/sort/
 * Stack is a data structure which follows the LIFO approach, i.e. <strong>Last In First Out</strong>, stack is a very useful data structure and is used widely in problem solving and competitive. 
 * You can learn all about Stacks from [here](https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm).
 * To see the stack implementation with all the functionality of push, pop and empty functions, you should [vist this code](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/03.Stack%20implementations.cpp).
+* Stack is already a built-in DS in C++ stl, see [this code](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/031.std::stack().cpp) to understand its working.
 
   
