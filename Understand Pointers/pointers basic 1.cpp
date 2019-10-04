@@ -29,3 +29,12 @@ int main()
   cout<<*(string*)ptr<<endl;
   return 0;
 }
+
+
+/* 
+
+LINK TO COMPLETE EXPLANATION OF POINTERS
+
+https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/
+
+*/

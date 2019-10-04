@@ -60,3 +60,13 @@ int main()
     assending order of their sizes to prevent the addition of unnessary addition of padding bytes*/ 
 	return 0;
 }
+
+
+/* 
+
+LINK TO COMPLETE EXPLANATION OF SIZEOF
+
+https://en.cppreference.com/w/cpp/language/sizeof
+
+*/
+

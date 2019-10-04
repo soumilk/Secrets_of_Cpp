@@ -17,3 +17,13 @@ YEAH, there is:
 
 /* So now if anyone ask that can we call the main function without actually calling
 the function with name main?!  then answer is yes!! */
+
+
+/* 
+
+LINK TO COMPLETE EXPLANATION OF MACROS IN CPP
+
+https://guide.freecodecamp.org/cplusplus/preprocessors/
+
+*/
+
