@@ -53,5 +53,12 @@ http://www.cplusplus.com/reference/algorithm/sort/
    * Priority queues are generally preferred for the heap implementation, i.e. (Max heap and Min heap).
    * To see the execution of the min and the max heap, [visit this code](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/041.Priority_queue.cpp).
    * We can preform the formation of heaps according to the custom comparator functionn as well, with the use of functors [visit this code](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/042.Priority_queue%20with%20custom%20comparator.cpp).
-   
+  
+### Hashmap/Hashtable
+* A hashmap is a data structure that allows for insertion, search, and deletion of elements in O(1) average time.
+* Elements in a hashmap are denoted as (key, value) pairs, where each element has a unique key.
+* We use the key to index into the hashmap, while the value is what is returned from the hashmap.
+* To understand hashmaps in a better manner, visit [this](https://www.geeksforgeeks.org/implementing-hash-table-open-addressing-linear-probing-cpp/).
+* C++ has built-in hashmap library in STL, it is called as unordered\_map. To see the working of the STL unordered\_map [visit this implementation](https://github.com/soumilk/Secrets_of_Cpp/blob/master/C%2B%2B%20STL/06.std::unordered_map.cpp).
+* As the name suggests, the elements are not stored in any sorted order.
   
