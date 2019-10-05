@@ -49,3 +49,12 @@ int main ()
 	obj1.base::display();
 	return 0;
 }
+
+
+/* 
+
+LINK TO COMPLETE EXPLANATION OF MULTIPLE INHERITANCE AND DIAMOND PROBLEM AND ITS SOLUTION
+
+https://www.geeksforgeeks.org/multiple-inheritance-in-c/
+
+*/

@@ -26,3 +26,16 @@ int main()
 	cout<<"Back to the main"<<endl;
 	return 0;
 }
+
+
+/* 
+
+LINK TO COMPLETE EXPLANATION OF PRIVATE MEMBERS AND ACCESS PRIVATE MEMBERS OUTSIDE THE CLASS
+
+https://www.geeksforgeeks.org/access-modifiers-in-c/
+
+and
+
+https://www.geeksforgeeks.org/can-access-private-data-members-class-without-using-member-friend-function/
+
+*/

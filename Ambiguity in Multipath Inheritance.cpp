@@ -44,3 +44,11 @@ int main ()
 	obj1.display();
 	return 0;
 }
+
+/* 
+
+LINK TO COMPLETE EXPLANATION OF MULTIPLE INHERITANCE AND DIAMOND PROBLEM
+
+https://www.freecodecamp.org/news/multiple-inheritance-in-c-and-the-diamond-problem-7c12a9ddbbec/
+
+*/
