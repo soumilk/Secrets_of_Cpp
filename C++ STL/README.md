@@ -63,7 +63,8 @@ http://www.cplusplus.com/reference/algorithm/sort/
 * As the name suggests, the elements are not stored in any sorted order.
   
 ### Ordered Map
-* Ordered map are implementations of Self Balancing Trees like Red-Black tree and AVL tres.
-* A Ordered map is a data structure that allows for insertion, search, and deletion of elements in O(Logn) average time.
+* Ordered map are implementations of Self Balancing Trees like Red-Black tree and AVL tree.
+* An Ordered map is a data structure that allows for insertion, search, and deletion of elements in O(LogN) average time.
 * All the elements are stored in sorted order.
 * Unlike in Hashmap which have average time complexity of O(1). It guarantees a time complexity of O(LogN) always.
+* C++ has built-in map library in STL.
