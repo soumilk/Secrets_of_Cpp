@@ -1,4 +1,4 @@
-# Exploring C++
+﻿# Exploring C++
 
 C++ is undoubtefully a language which implements among the most powerful features of programming paradigm in the world.
 Here in this repo we have explored the various aspects of C++, its applications and behaviour. 
@@ -65,3 +65,8 @@ int *ptr;   // ptr can point to an address which holds int data
 ### References 
   * [GeeksForGeeks](https://geeksforgeeks.org)
   * [StackOverflow](stackoverflow.com)
+
+### What is Boost Functionality ?
+  *Boost is a set of libraries for the C++ programming language that provide support for tasks and structures such as linear algebra, pseudorandom number generation, multithreading, image processing, regular expressions, and unit testing. It contains over eighty individual libraries. 
+  *In order to ensure efficiency and flexibility, Boost makes extensive use of templates. Boost has been a source of extensive work and research into generic programming and metaprogramming in C++.
+  *Most of the Boost libraries are licensed under the Boost Software License, designed to allow Boost to be used with both free and proprietary software projects.
