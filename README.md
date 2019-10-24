@@ -62,6 +62,11 @@ int *ptr;   // ptr can point to an address which holds int data
   * Assigning the address of a variable to a pointer using unary operator (&) which returns the address of that variable.
   * Accessing the value stored in the address using unary operator (*) which returns the value of the variable located at the address specified by its operand.
 
+### Use of Smart Pointers
+  * Smart pointer are a kind of pointers whose destruction happens impliceitely.
+  * Usually these are the wrappers over the pointer variable/object.
+  * [Smart Pointers](https://www.learncpp.com/cpp-tutorial/15-1-intro-to-smart-pointers-move-semantics/)
+
 ### References 
   * [GeeksForGeeks](https://geeksforgeeks.org)
   * [StackOverflow](stackoverflow.com)
