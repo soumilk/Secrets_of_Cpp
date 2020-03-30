@@ -30,8 +30,6 @@ public:
     LinkedList(int * ,int);
     void Display();
     bool isempty();
-    void Insert_at_pos(int ,int );
-    int Length();
     void Remove_duplicates();
 };
 
