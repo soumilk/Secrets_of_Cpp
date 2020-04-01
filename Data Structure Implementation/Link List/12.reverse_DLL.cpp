@@ -1,6 +1,6 @@
 //
 // Created by soumil on 3/31/2020.
-// CIRCULAR SINGLY LINKED LIST in C++- REVERSE THE LINEAR DOUBLY LINKED LIST
+// DOUBLY LINEAR LINKED LIST in C++- REVERSE THE LINEAR DOUBLY LINKED LIST
 /*
  * This is the implementation for the Linear doubly linked list.
  * Code performs some basic operations like:
