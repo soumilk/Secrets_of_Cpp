@@ -7,7 +7,7 @@
     1. BST generation from a given preorder
     2. Inorder traversal
     
- * NOTE: This code works on the correct provided input of the preorder of only a Binary search tree,
+ * NOTE: This code works correctly when input is provided in the preorder of only a Binary search tree,
          also, the code works for the positive values
  */
 #include<iostream>
